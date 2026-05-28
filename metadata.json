@@ -1,0 +1,6 @@
+{
+  "name": "Symphony",
+  "description": "Symphony is a feature-rich, high-performance Spotify-like music app. It features custom playlists, fully offline listening simulations, automated smart AI recommendations via Gemini energy, a live synchronous Group Session social space, audio streaming controls, sleek Material 3 dark-green typography, and native sharing cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

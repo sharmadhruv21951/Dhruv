@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing background aura -->
+    <path
+        android:fillColor="#151DB954"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <path
+        android:fillColor="#251DB954"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+    <!-- Music note / Sound waves combination in Spotify Green -->
+    <!-- First upper sound wave -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M32,36 C44,28 64,28 76,36 C77.5,37 78.5,36.5 79,35 C79.5,33.5 78.8,32 77.2,31 C63.6,22.2 44.4,22.2 30.8,31 C29.2,32 28.5,33.5 29,35 C29.5,36.5 30.5,37 32,36 Z" />
+    <!-- Second sound wave -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M36,46 C46,40 62,40 72,46 C73.5,47 74.5,46 75,44.5 C75.5,43 74.8,41.5 73.2,40.5 C61.6,33.5 46.4,33.5 34.8,40.5 C33.2,41.5 32.5,43 C33,44.5 C33.5,46 34.5,47 36,46 Z" />
+    <!-- Third sound wave -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M40,56 C48,51 60,51 68,56 C69.5,57 70.5,56 71,54.5 C71.5,53 70.8,51.5 69.2,50.5 C59.6,44.5 48.4,44.5 38.8,50.5 C37.2,51.5 36.5,53 37,54.5 C37.5,56 38.5,57 40,56 Z" />
+    <!-- Play symbol / note base in pure white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,65 L67,75 L47,85 Z" />
+</vector>
